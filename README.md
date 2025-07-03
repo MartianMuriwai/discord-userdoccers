@@ -1,5 +1,5 @@
 # Discord Unofficial User API Documentation
-
+  
 This repo is an attempt at documenting the unsupported user side of the Discord API, used by the [official client](https://discord.com/app) and [developer portal](https://discord.com/developers/applications), amongst others. 
 
 This means this documentation is focused on the API as it is used by non-bot users, namely with user and bearer authentication tokens. **Most bot-only endpoints that are not usable with user/bearer tokens are generally out of scope and will not be documented here.**
